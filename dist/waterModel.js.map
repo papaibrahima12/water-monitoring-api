@@ -1,1 +1,0 @@
-{"version":3,"file":"waterModel.js","sourceRoot":"","sources":["../src/waterModel.ts"],"names":[],"mappings":";;;AAAA,uCAA4C;AAK/B,QAAA,WAAW,GAAG,IAAI,iBAAM,CAAQ;IACzC,cAAc,EAAE,MAAM;IACtB,QAAQ,EAAC,MAAM;IACf,SAAS,EAAC,MAAM;IAChB,QAAQ,EAAC,MAAM;IACf,KAAK,EAAC,CAAC,MAAM,CAAC;CACjB,EACG;IACA,UAAU,EAAE,IAAI;CAAE,CACrB,CAAA"}
